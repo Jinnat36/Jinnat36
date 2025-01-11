@@ -12,7 +12,8 @@ Hi there! I'm a **BCA student** at **Techno India Hooghly**, passionate about co
 - 🎮 Working on projects like **Quizu**, a programming quiz app.  
 
 ### 📫 How to Reach Me  
-- 🌐 [GitHub](https://github.com/YourGitHubUsername)  
+- 🌐 [GitHub](https://github.com/jinnat36)
+- 🌐 [LinkedIn](https://linkedIn.com/Jinnat Ara Khatun) 
 - ✉️ Email: your.email@example.com  
 - 🌍 Location: **Chuchura, West Bengal, India**  
 
