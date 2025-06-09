@@ -13,7 +13,7 @@ Hi there! I'm a **BCA student** at **Techno India Hooghly**, passionate about co
 
 ### 📫 How to Reach Me  
 - 🌐 [GitHub](https://github.com/)
-- ✉️ Email: your.email@example.com  
+- ✉️ Email: soniakhatuntanu@gmail.com  
 - 🌍 Location: **Chuchura, West Bengal, India**  
 
 ### ✨ Fun Fact  
