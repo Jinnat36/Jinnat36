@@ -12,7 +12,7 @@ Hi there! I'm a **BCA student** at **Techno India Hooghly**, passionate about co
 - 🎮 Working on projects like **Quizu**, a programming quiz app.  
 
 ### 📫 How to Reach Me  
-- 🌐 [GitHub](https://github.com/)
+- 🌐 [GitHub](https://github.com/Jinnat36)
 - ✉️ Email: soniakhatuntanu@gmail.com  
 - 🌍 Location: **Chuchura, West Bengal, India**  
 
